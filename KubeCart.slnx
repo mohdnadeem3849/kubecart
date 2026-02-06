@@ -1,0 +1,6 @@
+<Solution>
+  <Folder Name="/Solution Items/" />
+  <Project Path="Orders.Api/Orders.Api.csproj" Id="561dcd5c-3629-4c6f-b93f-714f8fb2c348" />
+  <Project Path="services/catalog/src/Catalog.Api/Catalog.Api.csproj" Id="3c7a5ac8-d3a4-4431-a502-78950c16adcd" />
+  <Project Path="services/identity/src/Identity.Api/Identity.Api.csproj" Id="4ef96d04-32ac-4700-ae53-97d85efbbdfd" />
+</Solution>

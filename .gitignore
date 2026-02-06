@@ -1,0 +1,17 @@
+# =========================================
+# KubeCart Git Ignore
+# =========================================
+
+# Ignore real Kubernetes secrets
+k8s/secrets/*-secrets.yaml
+
+# Ignore node modules
+node_modules/
+
+# Ignore build outputs
+bin/
+obj/
+dist/
+
+# Ignore user-specific files
+.vs/

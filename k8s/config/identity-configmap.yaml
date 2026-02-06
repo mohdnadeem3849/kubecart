@@ -1,0 +1,11 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: identity-config
+  namespace: demo
+data:
+  DB_HOST: "host.minikube.internal,1433"
+  DB_NAME: "KubeCart_Identity"
+  DB_USER: "sa"
+  JWT_ISSUER: "kubecart-identity"
+  JWT_AUDIENCE: "kubecart-api"

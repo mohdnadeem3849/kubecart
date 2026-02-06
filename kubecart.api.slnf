@@ -1,0 +1,9 @@
+{
+  "solution": {
+    "path": "KubeCart.slnx",
+    "projects": [
+      "services\\catalog\\src\\Catalog.Api\\Catalog.Api.csproj",
+      "services\\identity\\src\\Identity.Api\\Identity.Api.csproj"
+    ]
+  }
+}
