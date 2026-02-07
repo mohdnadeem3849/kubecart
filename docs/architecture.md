@@ -4,7 +4,7 @@
 
 This document explains the overall architecture of the KubeCart application.
 
-It is written for understanding, grading, and viva discussion.
+
 
 
 
